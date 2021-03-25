@@ -9,7 +9,7 @@ resume :
       place   : Université Henri Poincaré, Nancy 1
       from    : 2006
       to      : 2007
-      address : 11 Rue de l'Université, 88100 Saint-Dié-des-Vosges, FR
+      address : 11 Rue de l'Université, Saint-Dié-des-Vosges 88100, FR
       url     : http://iutsd.univ-lorraine.fr/
       desc    : Computer science with specialization in systems and software
     
@@ -17,7 +17,7 @@ resume :
       place   : Université Henri Poincaré, Nancy 1
       from    : 2004
       to      : 2006
-      address : 11 Rue de l'Université, 88100 Saint-Dié-des-Vosges, FR
+      address : 11 Rue de l'Université, Saint-Dié-des-Vosges 88100, FR
       url     : http://iutsd.univ-lorraine.fr/
       desc    : 
 
@@ -26,7 +26,7 @@ resume :
       place   : ITS4U 
       from    : 2013-01-01
       to      : 
-      address : 136 route de Bettembourg, Fentange, 5811, LU
+      address : 136 route de Bettembourg, Fentange 5811, LU
       url     : https://www.its4u.lu/
       desc    : |
                 Development of angularJS and angular application
@@ -61,7 +61,7 @@ resume :
       place   : Intrasoft International
       from    : 2007-07-01
       to      : 2011-03-31
-      address : Luxembourg
+      address : 2B Rue Nicolas Bové, Luxembourg 1253, LU
       url     : https://www.intrasoft-intl.com/
       desc    : |
                 In charge of the internal portal development written in flex 3.5 using blazeDS, Java and MSSQL database.
@@ -72,7 +72,7 @@ resume :
       place   : Silicon Dream
       from    : 2006-06-01
       to      : 2006-08-31
-      address : Level 1 Newpark Tower, 5 Short St, Newmarket, Auckland 1023, Nouvelle-Zélande
+      address : Level 1 Newpark Tower, 5 Short St, Newmarket, Auckland 1023, NZ
       url     : https://www.silicon-dream.com/
       desc    : |
                 Website developement using ASP.net and Javascript
