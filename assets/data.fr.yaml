@@ -2,7 +2,7 @@ resume :
   general :
     name    : Pierre HANAUER
     title   : Expert Technique frontend
-    aboutMe : Consultant IT avec 14 ans d’expérience, spécialisé en développement applications Angular, d'API PHP Lumen, d’ERP/CRM , création d’applications mobiles Android, programmation orientée objet, Design Pattern, MVC architecture, Web services.
+    aboutMe : Consultant IT avec 14 ans d’expérience, spécialisé en développement d'applications Angular, d'API PHP Lumen, d’ERP/CRM , création d’applications mobiles Android, programmation orientée objet, Design Pattern, MVC architecture, Web services.
     
   educations :
     - name    : Licence professionnelle
@@ -31,7 +31,7 @@ resume :
       desc    : |
                 Développement d'applications Angular, React et AngularJS
                 Développement d'API en PHP (Laravel / Lumen) 
-                Configuration de serveur web sous linux RHEL 
+                Configuration de serveurs Web sous linux RHEL 
                 Intégration, développement et administration de solutions CRM (SugarCRM, Edeal) pour différents clients
       skills  : Angular, React, PHP, MySQL, Oracle, CentOS, Java
 
@@ -42,8 +42,8 @@ resume :
       address : Luxembourg
       url     : 
       desc    : |
-                En charge de l'architecture et du développement d'une application de gestions pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
-                Création du site web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
+                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyste développeur & Architecte technique
@@ -53,8 +53,8 @@ resume :
       address : Luxembourg
       url     : 
       desc    : |
-                En charge de l'architecture et du développement d'une application de gestions pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
-                Création du site web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
+                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyste développeur
@@ -64,7 +64,7 @@ resume :
       address : 2B Rue Nicolas Bové, Luxembourg 1253, LU
       url     : https://www.intrasoft-intl.com/
       desc    : |
-                En charge du développement, l'administration et le maintient du portail d'entreprise de la société Intrasoft International écrit en Flex 3.5 BalzeDS, Java et une base de données MSSQL. 
+                En charge du développement, de l'administration et du maintien du portail d'entreprise de la société Intrasoft International écrit en Flex 3.5 BalzeDS, Java et une base de données MSSQL. 
                 Création d’une application de gestion par workflow des directives de vol de EASA (European Aviation Safety Agency) en PHP avec base de données Oracle.
       skills  : Air/Flex, PHP, MsSQL, Java
 
@@ -75,7 +75,7 @@ resume :
       address : Level 1 Newpark Tower, 5 Short St, Newmarket, Auckland 1023, NZ
       url     : https://www.silicon-dream.com/
       desc    : |
-                Développement de sites web en ASP.net et Javascript
+                Développement de sites Web en ASP.net et Javascript
       skills  : ASP.net, Javascript
 
   skills    : 

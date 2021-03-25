@@ -29,9 +29,9 @@ resume :
       address : 136 route de Bettembourg, Fentange 5811, LU
       url     : https://www.its4u.lu/
       desc    : |
-                Development of angularJS and angular application
-                Development of PHP API (Laravel /Lumen)
-                Configuration of Linux RHEL web servers
+                Angular, React and AngularJS development
+                PHP API (Laravel /Lumen) development
+                Linux RHEL Web servers configuration
                 Integration, development and management of CRM solutions (SugarCRM, Edeal) for various clients
       skills  : Angular, React, PHP, MySQL, Oracle, CentOS, Java
 
@@ -43,7 +43,7 @@ resume :
       url     : 
       desc    : |
                 In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
-                Creation of the Fond Belval website using PHP, Html, CSS and MySQL database.
+                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyst Developer & Technical Architect
@@ -54,7 +54,7 @@ resume :
       url     : 
       desc    : |
                 In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
-                Creation of the Fond Belval website using PHP, Html, CSS and MySQL database.
+                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyst Developer
@@ -65,7 +65,7 @@ resume :
       url     : https://www.intrasoft-intl.com/
       desc    : |
                 In charge of the internal portal development written in flex 3.5 using blazeDS, Java and MSSQL database.
-                Created a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). Application written in PHP5 with Oracle database.
+                Creation of a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). Application written in PHP5 with Oracle database.
       skills  : Air/Flex, PHP, MsSQL, Java
 
     - name    : Developer
