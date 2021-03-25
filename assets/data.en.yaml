@@ -1,0 +1,174 @@
+resume :
+  general :
+    name    : Pierre HANAUER
+    title   : Frontend Technical Expert
+    aboutMe : IT Specialist with 14 years experience, specialized in Angular front-end, PHP API (Lumen), ERP/CRM, Creation of Android mobile applications, Object-oriented programming, Design Pattern, MVC architecture, Web services.
+    
+  educations :
+    - name    : Bachelor's degree
+      place   : Université Henri Poincaré, Nancy 1
+      from    : 2006
+      to      : 2007
+      address : 11 Rue de l'Université, 88100 Saint-Dié-des-Vosges, FR
+      url     : http://iutsd.univ-lorraine.fr/
+      desc    : Computer science with specialization in systems and software
+    
+    - name    : Higher National Diploma majoring
+      place   : Université Henri Poincaré, Nancy 1
+      from    : 2004
+      to      : 2006
+      address : 11 Rue de l'Université, 88100 Saint-Dié-des-Vosges, FR
+      url     : http://iutsd.univ-lorraine.fr/
+      desc    : 
+
+  experiences :
+    - name    : Technical Expert
+      place   : ITS4U 
+      from    : 2013-01-01
+      to      : 
+      address : 136 route de Bettembourg, Fentange, 5811, LU
+      url     : https://www.its4u.lu/
+      desc    : |
+                Development of angularJS and angular application
+                Development of PHP API (Laravel /Lumen)
+                Configuration of Linux RHEL web servers
+                Integration, development and management of CRM solutions (SugarCRM, Edeal) for various clients
+      skills  : Angular, React, PHP, MySQL, Oracle, CentOS, Java
+
+    - name    : Analyst Developer & Technical Architect
+      place   : InitBox
+      from    : 2012-04-01
+      to      : 2012-10-31
+      address : Luxembourg
+      url     : 
+      desc    : |
+                In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
+                Creation of the Fond Belval website using PHP, Html, CSS and MySQL database.
+      skills  : Air/Flex, PHP, MsSQL, MySQL, Java
+
+    - name    : Analyst Developer & Technical Architect
+      place   : SynerMesh S.A.
+      from    : 2011-04-01
+      to      : 2012-03-31
+      address : Luxembourg
+      url     : 
+      desc    : |
+                In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
+                Creation of the Fond Belval website using PHP, Html, CSS and MySQL database.
+      skills  : Air/Flex, PHP, MsSQL, MySQL, Java
+
+    - name    : Analyst Developer
+      place   : Intrasoft International
+      from    : 2007-07-01
+      to      : 2011-03-31
+      address : Luxembourg
+      url     : https://www.intrasoft-intl.com/
+      desc    : |
+                In charge of the internal portal development written in flex 3.5 using blazeDS, Java and MSSQL database.
+                Created a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). Application written in PHP5 with Oracle database.
+      skills  : Air/Flex, PHP, MsSQL, Java
+
+    - name    : Developer
+      place   : Silicon Dream
+      from    : 2006-06-01
+      to      : 2006-08-31
+      address : Level 1 Newpark Tower, 5 Short St, Newmarket, Auckland 1023, Nouvelle-Zélande
+      url     : https://www.silicon-dream.com/
+      desc    : |
+                Website developement using ASP.net and Javascript
+      skills  : ASP.net, Javascript
+
+  skills    : 
+    - name  : Typescript / Javascript
+      grade : 5
+      subSkill  :
+        - name  : Angular
+          grade : 5
+
+        - name  : React
+          grade : 4
+
+        - name  : Backbone.js
+          grade : 3
+
+    - name  : PHP
+      grade : 5
+      subSkill  :
+        - name  : Lumen
+          grade : 5
+                  
+        - name  : Laravel
+          grade : 4
+
+        - name  : SugarCRM
+          grade : 4 
+
+        - name  : Symphony
+          grade : 3
+
+        - name  : Phalcon
+          grade : 3
+
+    - name  : Databases
+      grade : 4
+      subSkill  :
+        - name  : MySQL
+          grade : 5
+                  
+        - name  : Oracle
+          grade : 4
+
+        - name  : MsSQL
+          grade : 4 
+
+        - name  : PostGreSQL
+          grade : 3
+
+        - name  : Firebase
+          grade : 3
+
+            
+    - name  : OS
+      grade : 4
+      subSkill  :
+        - name  : Linux (RHEL)
+          grade : 5
+                  
+        - name  : Windows Server
+          grade : 3
+
+                
+    - name  : Java
+      grade : 3
+
+
+  languages :
+    - name    : French
+      written : 5
+      spoken  : 5
+    
+    - name    : English
+      written : 4
+      spoken  : 4
+
+    - name    : German
+      written : 1
+      spoken  : 1
+
+  misc :
+    hobbies   : 'fitness, running'
+    licence   : 'B'
+
+  traduction : 
+    aboutMe     : About me
+    experiences : Experiences
+    educations  : Education
+    skills      : Skills
+    languages   : Languages
+    misc        : Others
+    hobbies     : Hobbies
+    licence     : Licence
+    today       : Today
+    spoken      : Spoken
+    written     : Written
+    dateFormat  : dd-MM-yyyy
