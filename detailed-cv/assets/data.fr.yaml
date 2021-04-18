@@ -1,19 +1,19 @@
 resume :
   general :
     name    : Pierre HANAUER
-    title   : Frontend Technical Expert
-    aboutMe : IT Specialist with 14 years experience, specialized in Angular front-end, PHP API (Lumen), ERP/CRM, Creation of Android mobile applications, Object-oriented programming, Design Pattern, MVC architecture, Web services.
+    title   : Expert Technique frontend
+    aboutMe : Consultant IT avec 14 ans d’expérience, spécialisé en développement d'applications Angular, d'API PHP Lumen, d’ERP/CRM , création d’applications mobiles Android, programmation orientée objet, Design Pattern, MVC architecture, Web services.
     
   educations :
-    - name    : Bachelor's degree
+    - name    : Licence professionnelle
       place   : Université Henri Poincaré, Nancy 1
       from    : 2006
       to      : 2007
       address : 11 Rue de l'Université, Saint-Dié-des-Vosges 88100, FR
       url     : http://iutsd.univ-lorraine.fr/
-      desc    : Computer science with specialization in systems and software
+      desc    : Informatique, Internet et médias mobiles
     
-    - name    : Higher National Diploma majoring
+    - name    : DUT Informatique
       place   : Université Henri Poincaré, Nancy 1
       from    : 2004
       to      : 2006
@@ -22,60 +22,60 @@ resume :
       desc    : 
 
   experiences :
-    - name    : Technical Expert
+    - name    : Expert Technique
       place   : ITS4U 
       from    : 2013-01-01
       to      : 
       address : 136 route de Bettembourg, Fentange 5811, LU
       url     : https://www.its4u.lu/
       desc    : |
-                Angular, React and AngularJS development
-                PHP API (Laravel /Lumen) development
-                Linux RHEL Web servers configuration
-                Integration, development and management of CRM solutions (SugarCRM, Edeal) for various clients
+                Développement d'applications Angular, React et AngularJS
+                Développement d'API en PHP (Laravel / Lumen) 
+                Configuration de serveurs Web sous linux RHEL 
+                Intégration, développement et administration de solutions CRM (SugarCRM, Edeal) pour différents clients
       skills  : Angular, React, PHP, MySQL, Oracle, CentOS, Java
 
-    - name    : Analyst Developer & Technical Architect
+    - name    : Analyste développeur & Architecte technique
       place   : InitBox
       from    : 2012-04-01
       to      : 2012-10-31
       address : Luxembourg
       url     : 
       desc    : |
-                In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
-                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
+                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
-    - name    : Analyst Developer & Technical Architect
+    - name    : Analyste développeur & Architecte technique
       place   : SynerMesh S.A.
       from    : 2011-04-01
       to      : 2012-03-31
       address : Luxembourg
       url     : 
       desc    : |
-                In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona using Adobe AIR/Flex, Java, MSSQL. 
-                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
+                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
-    - name    : Analyst Developer
+    - name    : Analyste développeur
       place   : Intrasoft International
       from    : 2007-07-01
       to      : 2011-03-31
       address : 2B Rue Nicolas Bové, Luxembourg 1253, LU
       url     : https://www.intrasoft-intl.com/
       desc    : |
-                In charge of the internal portal development written in flex 3.5 using blazeDS, Java and MSSQL database.
-                Creation of a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). Application written in PHP5 with Oracle database.
+                En charge du développement, de l'administration et du maintien du portail d'entreprise de la société Intrasoft International écrit en Flex 3.5 BalzeDS, Java et une base de données MSSQL. 
+                Création d’une application de gestion par workflow des directives de vol de EASA (European Aviation Safety Agency) en PHP avec base de données Oracle.
       skills  : Air/Flex, PHP, MsSQL, Java
 
-    - name    : Developer
+    - name    : Développeur
       place   : Silicon Dream
       from    : 2006-06-01
       to      : 2006-08-31
       address : Level 1 Newpark Tower, 5 Short St, Newmarket, Auckland 1023, NZ
       url     : https://www.silicon-dream.com/
       desc    : |
-                Website developement using ASP.net and Javascript
+                Développement de sites Web en ASP.net et Javascript
       skills  : ASP.net, Javascript
 
   skills    : 
@@ -109,7 +109,7 @@ resume :
         - name  : Phalcon
           grade : 3
 
-    - name  : Databases
+    - name  : Base de données
       grade : 4
       subSkill  :
         - name  : MySQL
@@ -128,7 +128,7 @@ resume :
           grade : 3
 
             
-    - name  : OS
+    - name  : Système
       grade : 4
       subSkill  :
         - name  : Linux (RHEL)
@@ -143,15 +143,15 @@ resume :
 
 
   languages :
-    - name    : French
+    - name    : Français
       written : 5
       spoken  : 5
     
-    - name    : English
+    - name    : Anglais
       written : 4
       spoken  : 4
 
-    - name    : German
+    - name    : Allemand
       written : 1
       spoken  : 1
 
@@ -160,19 +160,19 @@ resume :
     licence   : 'B'
 
   traduction : 
-    aboutMe     : About me
-    experiences : Experiences
-    educations  : Education
-    skills      : Skills
-    languages   : Languages
-    misc        : Others
-    hobbies     : Hobbies
-    licence     : Licence
-    today       : Today
-    spoken      : Spoken
-    written     : Written
-    dateFormat  : dd-MM-yyyy
-  
+    aboutMe     : À propos
+    experiences : Expériences
+    educations  : Formation
+    skills      : Compétences
+    languages   : Langues
+    misc        : Autres
+    hobbies     : Loisirs
+    licence     : Permis
+    today       : Aujourd'hui
+    spoken      : Parlé
+    written     : Écrit
+    dateFormat  : dd/MM/yyyy
+ 
   links :
-    - name    : Detailed CV
-      url     : https://pierre-hanauer.github.io/detailed-cv/#/en
+    - name    : CV détaillé
+      url     : https://pierre-hanauer.github.io/detailed-cv/#/fr

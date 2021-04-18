@@ -172,3 +172,7 @@ resume :
     spoken      : Parlé
     written     : Écrit
     dateFormat  : dd/MM/yyyy
+ 
+  links :
+    - name    : CV simplifié
+      url     : https://pierre-hanauer.github.io/#/fr

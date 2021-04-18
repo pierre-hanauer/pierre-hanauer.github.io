@@ -174,5 +174,5 @@ resume :
     dateFormat  : dd-MM-yyyy
   
   links :
-    - name    : Detailed CV
-      url     : https://pierre-hanauer.github.io/detailed-cv/#/en
+    - name    : Simple CV
+      url     : https://pierre-hanauer.github.io/#/en
