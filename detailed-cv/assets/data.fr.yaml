@@ -151,10 +151,6 @@ resume :
       written : 4
       spoken  : 4
 
-    - name    : Allemand
-      written : 1
-      spoken  : 1
-
   misc :
     hobbies   : 'fitness, running'
     licence   : 'B'
@@ -174,5 +170,5 @@ resume :
     dateFormat  : dd/MM/yyyy
  
   links :
-    - name    : CV détaillé
-      url     : https://pierre-hanauer.github.io/detailed-cv/#/fr
+    - name    : CV simplifié
+      url     : https://pierre-hanauer.github.io/#/fr

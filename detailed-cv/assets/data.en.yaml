@@ -151,10 +151,6 @@ resume :
       written : 4
       spoken  : 4
 
-    - name    : German
-      written : 1
-      spoken  : 1
-
   misc :
     hobbies   : 'fitness, running'
     licence   : 'B'
