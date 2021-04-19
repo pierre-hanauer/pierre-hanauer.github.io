@@ -30,9 +30,9 @@ resume :
       url     : https://www.its4u.lu/
       desc    : |
                 Développement d'applications Angular, React et AngularJS
-                - Création d'une application de gestion de commissions pour CK Group, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
+                - Création d'une application de gestion des commissions pour CK Group, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
                 - Création d'une application de gestion des voyages de service pour la PGD, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
-                - Création d'une application de gestion des paiements instantanés  pour la BIL, utilisation de React / Bootstrap.
+                - Création d'une application de gestion des paiements instantanés pour la BIL, utilisation de React / Bootstrap.
                 - Développement de la partie Frontend d'une application de vente pour Tango en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
                 - Développement sur la partie Frontend d'une logiciel de facturation en ligne pour MySaam en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
                 - Développement sur la partie Frontend d'une application de gestion de petites annonces pour Wortimmo en React / Redux / SCSS / Bootstrap, développement collaboratif.
