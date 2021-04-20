@@ -30,8 +30,8 @@ resume :
       url     : https://www.its4u.lu/
       desc    : |
                 Développement d'applications Angular, React et AngularJS
-                - Création d'une application de gestion des commissions pour CK Group, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
-                - Création d'une application de gestion des voyages de service pour la PGD, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
+                - Création d'une application de gestion des commissions pour CK Group, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complète de la solution.
+                - Création d'une application de gestion des voyages de service pour la PGD, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complète de la solution.
                 - Création d'une application de gestion des paiements instantanés pour la BIL, utilisation de React / Bootstrap.
                 - Développement de la partie Frontend d'une application de vente pour Tango en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
                 - Développement sur la partie Frontend d'une logiciel de facturation en ligne pour MySaam en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
@@ -45,7 +45,7 @@ resume :
                 - Pour PGD, création d'un système de déploiement automatisé (front + back) et administration du serveur.
                 Intégration, développement et administration de solutions CRM (SugarCRM, Edeal) pour différents clients
                 - Installation, configuration et intégration de SugarCRM pour plusieurs clients, solution utilisant SideCar, HandleBarJS, BackBoneJS (frontend) et Zend Framework (backend).
-                - Création et administration d'une architecture logicielle complête pour Tango pour leurs serveurs CRM.
+                - Création et administration d'une architecture logicielle complète pour Tango pour leurs serveurs CRM.
                 - Installation et configuration d'ElasticSearch.
                 Utilisation de différentes méthodologies / outils
                 - Utilisation de Git et Gitflow.
