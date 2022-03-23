@@ -2,7 +2,7 @@ resume :
   general :
     name    : Pierre HANAUER
     title   : Frontend Technical Expert
-    aboutMe : IT Specialist with 14 years experience, specialized in Angular front-end, PHP API (Lumen), ERP/CRM, Creation of Android mobile applications, Object-oriented programming, Design Pattern, MVC architecture, Web services.
+    aboutMe : IT Specialist with 15 years experience, specialized in Angular front-end, PHP API (Lumen), ERP/CRM, Creation of Android mobile applications, Object-oriented programming, Design Pattern, MVC architecture, Web services.
     
   educations :
     - name    : Bachelor's degree
@@ -23,9 +23,21 @@ resume :
 
   experiences :
     - name    : Technical Expert
+      place   : Cat-amania 
+      from    : 2021-10-01
+      to      : 
+      address : 2 Place de Paris, Luxembourg 2314, LU
+      url     : https://www.cat-amania.com/agences/luxembourg/
+      desc    : |
+                Angular development
+                Java API (Spring-boot) development
+                Development of internal solutions for Banque de luxembourg
+      skills  : Angular, Java
+
+    - name    : Technical Expert
       place   : ITS4U 
       from    : 2013-01-01
-      to      : 
+      to      : 2021-09-30
       address : 136 route de Bettembourg, Fentange 5811, LU
       url     : https://www.its4u.lu/
       desc    : |

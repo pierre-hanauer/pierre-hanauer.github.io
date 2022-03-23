@@ -2,7 +2,7 @@ resume :
   general :
     name    : Pierre HANAUER
     title   : Expert Technique frontend
-    aboutMe : Consultant IT avec 14 ans d’expérience, spécialisé en développement d'applications Angular, d'API PHP Lumen, d’ERP/CRM , création d’applications mobiles Android, programmation orientée objet, Design Pattern, MVC architecture, Web services.
+    aboutMe : Consultant IT avec 15 ans d’expérience, spécialisé en développement d'applications Angular, d'API PHP Lumen, d’ERP/CRM , création d’applications mobiles Android, programmation orientée objet, Design Pattern, MVC architecture, Web services.
     
   educations :
     - name    : Licence professionnelle
@@ -23,9 +23,21 @@ resume :
 
   experiences :
     - name    : Expert Technique
+      place   : Cat-amania 
+      from    : 2021-10-01
+      to      : 
+      address : 2 Place de Paris, Luxembourg 2314, LU
+      url     : https://www.cat-amania.com/agences/luxembourg/
+      desc    : |
+                Développement d'applications Angular
+                Développement d'API en Java (Spring-boot)
+                Développement de solutions internes pour la Banque de luxembourg
+      skills  : Angular, Java
+
+    - name    : Expert Technique
       place   : ITS4U 
       from    : 2013-01-01
-      to      : 
+      to      : 2021-09-30
       address : 136 route de Bettembourg, Fentange 5811, LU
       url     : https://www.its4u.lu/
       desc    : |
