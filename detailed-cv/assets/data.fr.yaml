@@ -23,9 +23,21 @@ resume :
 
   experiences :
     - name    : Expert Technique
+      place   : Banque de luxembourg 
+      from    : 2022-06-15
+      to      : 
+      address : 14 boulevard Royal, Luxembourg 2449, LU
+      url     : https://www.banquedeluxembourg.com/
+      desc    : |
+                Développement d'applications Angular
+                Développement d'API en Java (Spring-boot)
+                Développement de solutions internes pour la Banque de luxembourg
+      skills  : Angular, Java
+
+    - name    : Expert Technique
       place   : Cat-amania 
       from    : 2021-10-01
-      to      : 
+      to      : 2022-06-14
       address : 2 Place de Paris, Luxembourg 2314, LU
       url     : https://www.cat-amania.com/agences/luxembourg/
       desc    : |
